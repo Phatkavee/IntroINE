@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(200, 236, 115);
+  }
+  
+h1 {
+    color: rgb(236, 65, 65);
+    margin-left: 20px;
+}
+
+input[type=text] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=password] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=date] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=email] {
+  background-color: rgb(255, 255, 255);
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=number] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=image] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+input[type=file] {
+  background-color: white;
+  background-image: url('boxicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
